@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요, 최종은입니다 👋</h1>
 
 <p align="center">
-  <b>국민대학교 소프트웨어융합대학 | 웹 동아리 WINK | Frontend Developer</b>
+  <b>국민대학교 소프트웨어융합대학 | 웹 동아리 WINK | Web Developer</b>
 </p>
 
 <p align="center">
